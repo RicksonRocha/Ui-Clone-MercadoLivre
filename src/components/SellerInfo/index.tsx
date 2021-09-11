@@ -29,11 +29,11 @@ const SellerInfo: React.FC = () => {
 
       <ReputationCard>
         <ReputationThermometer>
-          l<li />
-          l<li />
-          l<li />
-          l<li />
-          l<li className="active" />
+          <li />
+          <li />
+          <li />
+          <li />
+          <li className="active" />
         </ReputationThermometer>
 
         <ReputationRow>
